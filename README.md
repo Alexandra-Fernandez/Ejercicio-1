@@ -1,5 +1,6 @@
 # Ejercicio-1
 Escriba un algoritmo que pregunte por dos números y muestre como resultado la suma de estos.
+
 1. INICIO
 2. LEER DATOS   
    - dato 1 
